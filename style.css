@@ -24,7 +24,8 @@
     background-position: center;
     height: 62.5rem;
     width: 50%;
-    background-position: fixed;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     background-image: url("https://www.telegraph.co.uk/content/dam/news/2022/06/17/TELEMMGLPICT000299940410_trans_NvBQzQNjv4BqNBal_pt-L7OamvIltF8S-0mOrT0s5qJGV2Rlz2C-sZI.jpeg");
     background-color: rgba(49, 45, 42, 0.5);
@@ -50,6 +51,7 @@
     width: 4%;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     margin-bottom: 31.25rem;
     background-color: rgba(32, 32, 32, 0.5);
     background-blend-mode: multiply;
@@ -64,6 +66,7 @@
     height: 4%;
     width: 4%;
     background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: rgba(49, 45, 42, 0.5);
     background-blend-mode: multiply;
@@ -77,8 +80,9 @@
     height: 2%;
     width: 2%;
     background-size: cover;
-    background-position: fixed;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     background-image: url("https://images.stockcake.com/public/0/1/3/013a35ac-2c88-4ada-bd6d-45c145819327_large/solar-energy-dawn-stockcake.jpg");
     background-color: rgba(49, 45, 42, 0.5);
     background-blend-mode: multiply;
@@ -96,7 +100,7 @@
     height: 2%;
     width: 2%;
     background-size: cover;
-    background-position: fixed;
+    background-position: center;
     background-repeat: no-repeat;
     background-image: url("https://images.stockcake.com/public/0/1/3/013a35ac-2c88-4ada-bd6d-45c145819327_large/solar-energy-dawn-stockcake.jpg");
     background-color: rgba(49, 45, 42, 0.5);
@@ -114,7 +118,7 @@
     height: 40%;
     width: 40%;
     background-size: cover;
-    background-position: fixed;
+    background-position: center;
     background-repeat: no-repeat;
     background-image: url("https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdWxhdGlvbnxlbnwwfHwwfHx8MA%3D%3D");
     image-rendering: smooth;
