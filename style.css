@@ -30,7 +30,7 @@
     background-color: rgba(49, 45, 42, 0.5);
     background-blend-mode: multiply;
     overflow-x: hidden;
-    min-width: 34.375rem;
+    min-width: 30rem;
     min-height: 31.25rem;
     
     
@@ -67,7 +67,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: rgba(49, 45, 42, 0.5);
+    background-color:rgb(243, 235, 235);
     background-blend-mode: multiply;
     margin-bottom: 31.25rem;
   }
@@ -329,6 +329,7 @@
     width: 100vw;
     background-color: rgb(255, 255, 255);
     font-size: 1.563rem;
+    padding: .5rem;
     
    }
 
@@ -424,7 +425,7 @@
     background-position: fixed;
     background-repeat: no-repeat;
     height: 140%;
-    width: 120%;
+    width: 100%;
     background-image: url("https://images.stockcake.com/public/e/d/7/ed70dfed-00b9-4d51-898b-2391d384b709/geothermal-energy-illustration-stockcake.jpg");
     background-blend-mode: multiply;
     background-color: rgb(243, 235, 235);
@@ -432,35 +433,11 @@
 
   }
 
-  #diagonalLineR {
-    border-bottom: 0.25rem solid black;
-    width: 20%;
-    padding-top: 15%;
-    margin-left: 18%;
-    transform: rotate(-10deg);
-    position: relative;
-    z-index: 3;
-
-  }
-
-  #diagonalLineL {
-    border-bottom: 0.25rem solid black;
-    width: 23%;
-    margin-top: 7%;
-    margin-left: 53%;
-    transform: rotate(210deg);
-    position: relative;
-    z-index: 3;
-
-  }
-
-
-  
   
    #solarButton {
     display: inline-block;
     border-radius: 0.438rem;
-    background-color: transparent;
+    background-color: rgb(243, 235, 235);
     border: rgb(0, 0, 0), 0.625rem;
     color: #000000;
     text-align: center;
@@ -470,9 +447,10 @@
     transition: all 0.5s;
     cursor: pointer;
     position: relative;
+    top: 5%;
     margin: 0.313rem;
-    margin-left: 6.25rem;
-    z-index: 0;
+    left: 25%;
+    z-index: 9;
    }
    
    #solarButton span {
@@ -483,7 +461,7 @@
    }
 
    #solarButton:hover span:after {
-    opacity: 1;
+    opacity: 0.5;
     right: 0;
     transition: 0.2s;
    }
@@ -499,7 +477,7 @@
    #insulationButton {
     display: inline-block;
     border-radius: 0.438rem;
-    background-color: transparent;
+    background-color: rgb(243, 235, 235);
     border: rgb(0, 0, 0), 0.625rem;
     color: #000000;
     text-align: center;
@@ -509,9 +487,8 @@
     transition: all 0.5s;
     cursor: pointer;
     position: relative;
-    margin: 0.313rem;
-    margin-left: 76%;
-    margin-top: 5%;
+    top: 17%;
+    margin-left: 55%;
     z-index: 3;
    }
    
@@ -540,7 +517,7 @@
    #geoButton {
     display: inline-block;
     border-radius: 0.438rem;
-    background-color: transparent;
+    background-color: rgb(243, 235, 235);
     border: rgb(0, 0, 0), 0.625rem;
     color: #000000;
     text-align: center;
@@ -551,7 +528,8 @@
     cursor: pointer;
     position: relative;
     margin: 0.313rem;
-    margin-left: 5%;
+    left: 17%;
+    top: 40%;
     z-index: 3;
    }
    
@@ -590,7 +568,7 @@
     font-size: 2.188rem;
     width: 100vw;
     margin-top: 10%;
-    padding: 0.313rem;
+    padding: 0.913rem;
    }
 
    .solarBasic {
@@ -646,6 +624,7 @@
    .solarTable1:hover span:after{
     position: relative;
     text-align: left;
+    padding: 5rem;
     content: 'Single-crystal panels made from silicon, typically providing for energy efficiency ranging from 15% to 20%. While one of the most expensive, these panels cover for their efficiency and an average lifespan of around 40 years. Alongside their notable heat tolerance, their smaller size also makes the most use of limited space. Average Cost of a 6kW Monocrystalline Solar Panel System is $6,000-$9,000.';
     transition: 0.5s;
    }
@@ -663,6 +642,7 @@
    .solarTable2:hover span:after{
     position: relative;
     text-align: left;
+    padding: 5rem;
     content: 'Multi-crystal silicon panels, performing at a lower efficiency range between 13% and 16%. In exchange, they are generally less expensive with a life span of 25-30 years. It is important to note that these panels will tend to cover a wider space and be more vulnerable to high temperature conditions. Average Cost of a 6kW Polycrystalline Solar Panel System is $4,500-$6,000.';
     transition: 0.5s;
    }
@@ -680,6 +660,7 @@
    .solarTable3:hover span:after{
     position: relative;
     text-align: left;
+    padding: 0rem;
     content: 'Very thin layers of sheet panels that are flexible and therefore easier to install for specific needs and structures of rooftops. In exchange, these panels are less efficient in generating power with a range between 7% and 12%. The lifespan of thin film panels is around 10-20 years. On average, these panels cost $0.75 to $1.10 per watt. Average Cost of a 6kW Thin Film Solar Panel System is $4,500-$6,600.';
     transition: 0.5s;
    }
@@ -806,7 +787,7 @@
    .Fiber:hover span:after{
     position: relative;
     text-align: left;
-    content: 'Fiberglass is a common insulation material made from fine glass fibers. Its common use can be seen in blanket, rigid boards, and loose-fill insulation. ';
+    content: 'Fiberglass is a common insulation material made from fine glass fibers that were spun from molten glass. Its common use can be seen in blankets, rigid boards, and loose-fill insulation. ';
     transition: 0.5s;
    }
   
@@ -822,7 +803,7 @@
    .Cell:hover span:after{
     position: relative;
     text-align: left;
-    content: 'Cellulose insulation is made from recycled paper products. Manufacturers also add borate for fire and insect resistance. Cellulose insulation is usually a loose-fill insulation.';
+    content: ' Cellulose insulation is typically made from recycled paper products. Cellulose insulation can be installed in new and existing homes, usually a loose-fill insulation. In addition, cellulose material may be manufactured with borate, increasing fire and insect resistance.';
     transition: 0.5s;
    }
   
@@ -854,7 +835,7 @@
    .Wool:hover span:after{
     position: relative;
     text-align: left;
-    content: ' Mineral wool can refer to either rock wool or slag wool. Rock wool is a man-made material made from a combination of natural minerals. Slag wool is also a man-made material, but is made from a waste product of molten metal known as slag. Both mineral wool insulations are naturally fire-resistant. They come as batts, rolls and loose-fill.';
+    content: 'Mineral wool consists of either rock wool or slag wool. Both rock wool and slag wool are man-made materials, differing only in the stuff that it’s made out of. Rock wool is made out of natural materials like basalt. Slag wool is made from the waste product of molten metal known as blast furnace slag. In addition, mineral wool comes fire resistant and can commonly be seen in blanket and loose-fill insulation.';
     transition: 0.5s;
    }
   
@@ -874,8 +855,8 @@
     content: 'Fiberglass is a common insulation material made from fine glass fibers. Its common use can be seen in blanket, rigid boards, and loose-fill insulation. ';
     transition: 0.5s;
    }
-  
-   .Poly2:hover {
+
+   .N_Fiber:hover {
     position: relative;
     vertical-align: text-top;
     background-color: #26262e;
@@ -884,26 +865,10 @@
     width: 25rem;
    }
 
-   .Poly2:hover span:after{
+   .N_Fiber:hover span:after{
     position: relative;
     text-align: left;
-    content: 'Fiberglass is a common insulation material made from fine glass fibers. Its common use can be seen in blanket, rigid boards, and loose-fill insulation. ';
-    transition: 0.5s;
-   }
-  
-   .Poly1:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .Poly1:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'Fiberglass is a common insulation material made from fine glass fibers. Its common use can be seen in blanket, rigid boards, and loose-fill insulation. ';
+    content: 'Insulation materials from natural fiber materials. These include cotton, sheep’s wool, and straw. Cotton insulation consists of both recycled cotton and plastic fibers mixed with borate--the same substance used in cellulose insulation. Sheep wool insulation is also created with borate. Straw insulation boards absorb sound for interior partitions.';
     transition: 0.5s;
    }
   
@@ -919,13 +884,42 @@
 
 
 
-
-
+   .additionContainer {
+    margin-left: 450%;
+    width: 60vw;
+    background: linear-gradient(60deg, rgb(52, 206, 104) 0.05%, rgb(193, 255, 193));;
+    transform: skew(-10deg);
+   }
    
    .additionHeading {
-    left:50%;
-    padding: 8rem;
-    background-color: #e8f8e1;
+    transform: skew(10deg);
+    padding: 5.5rem;
+    padding-top: 8rem;
     text-align: center;
     margin: 0 auto 0;
    }
+
+   .buyEnergy {
+    width: 100vw;
+    text-align: center;
+    font-size: 1.125rem;
+   }
+
+   .buyEnergy p {
+    margin-right: 10rem;
+    margin-left: 10rem;
+   }
+   .buyOptions {
+    background-color: #b8f7c09d;
+    margin:8rem;
+    margin-top:0;
+    text-align: center;
+    border: solid black;
+    border-radius: 3rem;
+ }
+
+ .energyProgram {
+  width: 100vw;
+  text-align: center;
+  font-size: 1.125rem;
+ }
