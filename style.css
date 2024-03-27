@@ -21,17 +21,16 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
-    background-position: center;
+    height: 62.5rem;
+    width: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url("https://images.stockcake.com/public/9/e/9/9e9a896d-fb34-4b47-ac39-34e9a8b35d15/solar-panel-installation-stockcake.jpg");
     background-color: rgba(49, 45, 42, 0.5);
     background-blend-mode: multiply;
     overflow-x: hidden;
-    min-width: 30rem;
+    min-width: 34.375rem;
     min-height: 31.25rem;
-    max-width: 35rem;
-    max-height: 35rem;
     
     
   }
@@ -120,8 +119,8 @@
     background-blend-mode: multiply;
     overflow-x: hidden;
     min-width: 34.375rem;
-    min-height: 40rem;
-    max-height: 40.5rem;
+    min-height: 50rem;
+    max-height: 62.5rem;
   }
 
 
