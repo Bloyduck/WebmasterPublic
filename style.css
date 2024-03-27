@@ -26,7 +26,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("https://www.telegraph.co.uk/content/dam/news/2022/06/17/TELEMMGLPICT000299940410_trans_NvBQzQNjv4BqNBal_pt-L7OamvIltF8S-0mOrT0s5qJGV2Rlz2C-sZI.jpeg");
+    background-image: url("https://images.stockcake.com/public/9/e/9/9e9a896d-fb34-4b47-ac39-34e9a8b35d15/solar-panel-installation-stockcake.jpg");
     background-color: rgba(49, 45, 42, 0.5);
     background-blend-mode: multiply;
     overflow-x: hidden;
@@ -48,13 +48,13 @@
     background-position: center;
     height: 4%;
     width: 4%;
+    background-image: url("https://images.stockcake.com/public/1/b/5/1b5722ec-84b3-4fca-b6b6-6ef22e77ded3/joyful-dog-running-stockcake.jpg");
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 31.25rem;
-    background-color: rgba(32, 32, 32, 0.5);
+    background-repeat: no-repeat;
+    background-color:rgb(243, 235, 235);
     background-blend-mode: multiply;
-    margin-bottom: 62.5rem;
+    margin-bottom: 31.25rem;
     
   }
 
@@ -96,7 +96,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("https://images.stockcake.com/public/0/1/3/013a35ac-2c88-4ada-bd6d-45c145819327_large/solar-energy-dawn-stockcake.jpg");
+    background-image: url("https://images.stockcake.com/public/b/6/4/b64e2378-5808-4f92-a57e-1bc51d06bd9e/basement-ductwork-installation-stockcake.jpg");
     background-color: rgba(49, 45, 42, 0.5);
     background-blend-mode: multiply;
     overflow-x: hidden;
@@ -114,7 +114,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdWxhdGlvbnxlbnwwfHwwfHx8MA%3D%3D");
+    background-image: url("https://images.stockcake.com/public/0/c/c/0cc5e05f-eb49-4c23-ae96-0311754dffe8/attic-insulation-work-stockcake.jpg");
     image-rendering: smooth;
     background-color: rgba(31, 27, 27, 0.5);
     background-blend-mode: multiply;
@@ -902,7 +902,7 @@
    .buyEnergy {
     width: 100vw;
     text-align: center;
-    font-size: 1.125rem;
+    font-size: 1.4rem;
    }
 
    .buyEnergy p {
@@ -918,8 +918,23 @@
     border-radius: 3rem;
  }
 
- .energyProgram {
-  width: 100vw;
+
+
+
+
+ .lifeHeading {
+  padding-top: 8rem;
   text-align: center;
-  font-size: 1.125rem;
+  font-size: 2.5rem;
+  margin: 0 auto 0;
+  width: 100vw;
  }
+
+ .betterAlternatives {
+  background-color: #ffc6c69f;
+  margin:8rem;
+  margin-top:0;
+  text-align: center;
+  border: solid black;
+  border-radius: 3rem;
+}
