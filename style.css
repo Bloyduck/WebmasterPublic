@@ -259,7 +259,7 @@
     color: #000000;
     text-align: center;
     font-size: 1.063rem;
-    padding: 1rem;
+    padding: 1.5rem;
     min-width: 9.375rem;
     width: 50%;
     transition: all 0.5s;
@@ -298,6 +298,26 @@
     background: linear-gradient(45deg, rgba(0, 150, 0, 0.404), white);
    }
 
+
+   .runPicture {
+    position: relative;
+    top: 15rem;
+    right: 30rem;
+   }
+
+
+   .greenHomePicture {
+    position: relative;
+    bottom: 28rem;
+    left: 70rem;
+   }
+
+
+   .lightBulbPicture {
+    position: relative;
+    bottom: 20rem;
+    left: 55rem;
+   }
 
 
 
