@@ -595,6 +595,7 @@
    }
 
    .solarBasic {
+    margin-right: 1.5rem;
     width: 100vw;
     font-size: 1.125rem;
     background-color: rgb(248, 252, 242);
@@ -692,6 +693,7 @@
 
    .solarCost {
     position: relative;
+    margin-right: 1.5rem;
     width: 100%;
     font-size: 1.1rem;
     background-color: rgb(246, 255, 233);
