@@ -95,12 +95,10 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("https://images.stockcake.com/public/b/6/4/b64e2378-5808-4f92-a57e-1bc51d06bd9e/basement-ductwork-installation-stockcake.jpg");
-    background-color: rgba(49, 45, 42, 0.5);
+    background-image: url("https://images.stockcake.com/public/5/3/5/535b27c5-b513-4ce7-ada6-2348a2004118/geothermal-energy-field-stockcake.jpg");
+    background-color: rgb(255, 234, 203);
     background-blend-mode: multiply;
     overflow-x: hidden;
-    min-width: 34.375rem;
-    min-height: 50rem;
     max-height: 62.5rem;
   }
 
@@ -301,22 +299,28 @@
 
    .runPicture {
     position: relative;
-    top: 15rem;
-    right: 30rem;
+    width: 30%;
+    height: auto;
+    top: 20rem;
+    float: left;
    }
 
 
    .greenHomePicture {
+    width: 30%;
+    height: auto;
     position: relative;
     bottom: 28rem;
-    left: 70rem;
+    left: 35rem;
    }
 
 
    .lightBulbPicture {
     position: relative;
+    width: 40%;
+    height: auto;
     bottom: 20rem;
-    left: 55rem;
+    float: right;
    }
 
 
@@ -386,7 +390,7 @@
     background-color: #e8f8e1;
     width: 30%;
     padding: 1.563rem;
-    margin-bottom: 2%;
+    top: 5rem;
     border-radius: 1.25rem;
     min-width: 12.5rem;
    }
@@ -704,24 +708,168 @@
    }
 
 
-   
+
+
+
+
+
+
    .geoTitle {
     text-align: center;
     font-size: 2.188rem;
     width: 100vw;
     color:white;
-    margin-top: 15%;
    }
 
    .geoHeading {
-    background: linear-gradient(180deg, rgb(0, 78, 26) 0.05%, rgb(65, 39, 6));
+    background: linear-gradient(180deg, rgb(153, 132, 10) 5%, rgb(0, 110, 37));
     text-align: center;
     font-size: 2.188rem;
-    color: rgb(138, 151, 138);
+    color: rgb(193, 228, 193);
     width: 100vw;
     margin-top: 10%;
     padding: 0.313rem;
    }
+
+   .geoBasic {
+    width: 100vw;
+    font-size: 1.25rem;
+    background: linear-gradient(180deg, rgb(0, 110, 37), rgb(116, 54, 30));
+    color: rgb(201, 255, 199);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    
+   }
+
+
+
+   .geoTypes {
+    padding-top: 1.875rem;
+    width: 100vw;
+    background-color: rgb(116, 54, 30);
+    margin-right: 3.75rem;
+    font-size: 1.25rem;
+    text-align: center;
+    color: lightblue;
+   }
+
+
+
+
+   
+   .geoTable {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1.25rem;
+    padding-bottom: 8.75rem;
+    border-collapse: separate;
+    border-spacing: 6.25rem;
+    
+   }
+
+   .geoTable td {
+    border: solid rgb(48, 46, 46);
+    box-shadow: -0.25rem 1.875rem 4rem -0.375rem black;
+    padding: 5rem;
+    height: 3rem;
+    text-align: center;
+    
+   }
+
+   .geoTable tr {
+    text-align: center;
+    background-color: rgb(90, 90, 90);
+    color: white;
+    
+   }
+
+
+
+   .geoTable1:hover {
+    position: relative;
+    vertical-align: text-top;
+    background: repeating-radial-gradient(rgba(6, 85, 175, 0.644), rgb(0, 49, 88));
+    color:#f1fdfb;
+    transition: 0.5s;
+    width: 30rem;
+   }
+
+   .geoTable1:hover span:after{
+    position: relative;
+    text-align: left;
+    content: 'In an open loop, water is taken from an external source and circulated through piping to transfer temperatures for heating or cooling. The water is then returned to their original source after having gone through the system. This is recommended for areas with a nearby supply of water which makes it possibly the cheapest. (ex. well, body of water). However, there is a possibility that the water will become contaminated. This generally costs around $15,000-$30,000.';
+    transition: 0.5s;
+   }
+
+
+   .geoTable2:hover {
+    position: relative;
+    vertical-align: text-top;
+    text-align: center;
+    background: radial-gradient(rgba(155, 0, 0, 0.644) 10%, rgba(81, 118, 148, 0.699));
+    color:#f1fdfb;
+    transition: 0.5s;
+    width: 30rem;
+   }
+
+   .geoTable2:hover span:after{
+    position: relative;
+    text-align: left;
+    content: 'A closed loop circulates an anti-freeze mixture through underground piping. This loop is recommended for extreme cold climates. This loop can cost anywhere from $25,000-$30,000.';
+    transition: 0.5s;
+   }
+
+
+   .geoTable3:hover {
+    position: relative;
+    vertical-align: text-top;
+    background: linear-gradient(90deg, rgb(83, 22, 22) 10%, rgb(30, 32, 100));
+    color: white;
+    text-align: center;
+    width: 30rem;
+    transition: 0.5s;
+   }
+
+   .geoTable3:hover span:after{
+    position: relative;
+    text-align: left; 
+    content: 'A shallow installation is typically dug about 2-6 ft deep, some going as deep as 10 ft, covering a wider area of land. This is best suited for areas with a larger space of land. Generally cost-effective for most residential installations ranging from $15,000-30,000.';
+    transition: 0.5s;
+   }
+  
+
+   .geoTable4:hover {
+    position: relative;
+    vertical-align: text-top;
+    background: linear-gradient(180deg, rgba(133, 0, 0, 0.644) 10%, rgba(0, 1, 83, 0.699));
+    color: white;
+    text-align: center;
+    width: 30rem;
+    transition: 0.5s;
+   }
+
+   .geoTable4:hover span:after{
+    position: relative;
+    text-align: left;
+    content: 'Very thin layers of sheet panels that are flexible and therefore easier to install for specific needs and structures of rooftops. In exchange, these panels are less efficient in generating power with a range between 7% and 12%. The lifespan of thin film panels is around 10-20 years. On average, these panels cost $0.75 to $1.10 per watt. Average Cost of a 6kW Thin Film Solar Panel System is $4,500-$6,600.';
+    transition: 0.5s;
+   }
+
+   .geoTax {
+    background: linear-gradient(180deg, rgb(116, 54, 30) 10%, rgba(255, 73, 17, 0.795));
+    box-shadow:  black;
+    font-size: 1.625rem;
+   }
+
+   .geotaxContent {
+    width:100vw;
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 1.25rem;
+    background-color: rgba(255, 73, 17, 0.795);
+   }
+
 
 
 
@@ -764,6 +912,7 @@
    .insulationMaterial h1 {
     background-color: rgb(245, 229, 209);
     padding: 3.125rem;
+    padding-top: 2rem;
    }
 
    .insulationMaterial {
@@ -838,7 +987,7 @@
    .Foam:hover span:after{
     position: relative;
     text-align: left;
-    content: 'Foam insulation may be made from polystyrene, polyisocyanurate or polyurethane, which are all types of plastic. You can also install cementitious foam insulation, which is cement-based. Foam insulations can be sprayed or installed in rigid foamboards.    ';
+    content: 'Foam insulation may be made from various types of plastic which include polystyrene, polyisocyanurate or polyurethane. Foam insulations can be sprayed or installed in rigid foam boards. In foam insulation, the R-value of these materials can vary depending on factors like density as possibly also providing resistance to fire and vapor.';
     transition: 0.5s;
    }
   
@@ -859,7 +1008,7 @@
    }
   
 
-   .Poly3:hover {
+   .Facing:hover {
     position: relative;
     vertical-align: text-top;
     background-color: #26262e;
@@ -868,10 +1017,10 @@
     width: 25rem;
    }
 
-   .Poly3:hover span:after{
+   .Facing:hover span:after{
     position: relative;
     text-align: left;
-    content: 'Fiberglass is a common insulation material made from fine glass fibers. Its common use can be seen in blanket, rigid boards, and loose-fill insulation. ';
+    content: 'The facing is more like an addition to insulation, being attached to insulation materials in which it typically protects and holds the insulation together. Depending on the type of facing, it may also serve as an air barrier, radiant barrier, vapor barrier, or even provide fire resistance.';
     transition: 0.5s;
    }
 
@@ -891,9 +1040,54 @@
     transition: 0.5s;
    }
   
+  .insulationType {
+    background-color: #ffe7b3;
+    width: 100vw;
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 1.25rem;
+  }
 
+  .in_typeLeft {
+    margin: 3rem;
+    width: 50vw;
+    padding: 2rem;
+    border: solid black;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1.1rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
 
+  .leftList {
+    text-align: left;
+  }
 
+  .in_typeRight {
+    margin: 2rem;
+    width: 50vw;
+    padding: 1.5rem;
+    margin-left: 100%;
+    border: solid black;
+    border-radius: 0.5rem;
+    vertical-align: top;
+    font-size: 1.1rem;
+    text-align: center;
+    list-style-type: none;
+  }
+
+  .insulationTax {
+    margin-right: 3rem;
+    padding: 1.5rem;
+    width: 100vw;
+    background-color: rgb(255, 233, 204);
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .ins_taxList {
+    list-style-type: none;
+  }
 
 
 
