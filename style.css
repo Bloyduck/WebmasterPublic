@@ -1153,3 +1153,8 @@
   border: solid black;
   border-radius: 3rem;
 }
+
+.about_Content {
+  margin: 2rem;
+  font-size: 1.25rem;
+}
