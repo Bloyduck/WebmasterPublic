@@ -1,1152 +1,1131 @@
 
 
 
-  .body1 {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url("https://images.stockcake.com/public/a/e/5/ae5db097-60cb-4035-a8a0-916d9f681598/solar-powered-suburban-home-stockcake.jpg");
-    background-color: rgba(49, 45, 42, 0.5);
-    background-blend-mode: multiply;
-    overflow-x: hidden;
-    min-width: 34.375rem;
-    min-height: 31.25rem;
-    
-  }
-  .body2 {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    height: 62.5rem;
-    width: 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url("https://images.stockcake.com/public/9/e/9/9e9a896d-fb34-4b47-ac39-34e9a8b35d15/solar-panel-installation-stockcake.jpg");
-    background-color: rgba(49, 45, 42, 0.5);
-    background-blend-mode: multiply;
-    overflow-x: hidden;
-    min-width: 34.375rem;
-    min-height: 31.25rem;
-    
-    
-  }
-  .body3 {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(255, 238, 225, 0.5);
-    
-  }
-
-  .lifeBody {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    height: 4%;
-    width: 4%;
-    background-image: url("https://images.stockcake.com/public/1/b/5/1b5722ec-84b3-4fca-b6b6-6ef22e77ded3/joyful-dog-running-stockcake.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color:rgb(243, 235, 235);
-    background-blend-mode: multiply;
-    margin-bottom: 31.25rem;
-    
-  }
-
-  .additionalBody {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    height: 4%;
-    width: 4%;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color:rgb(243, 235, 235);
-    background-blend-mode: multiply;
-    margin-bottom: 31.25rem;
-  }
-
-  .sunBody {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-image: url("https://images.stockcake.com/public/0/1/3/013a35ac-2c88-4ada-bd6d-45c145819327_large/solar-energy-dawn-stockcake.jpg");
-    background-color: rgba(49, 45, 42, 0.5);
-    background-blend-mode: multiply;
-    overflow-x: hidden;
-    min-width: 34.375rem;
-    max-height: 62.5rem;
-    
-  }
-
-  .geoBody {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    height: 2%;
-    width: 2%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-image: url("https://images.stockcake.com/public/5/3/5/535b27c5-b513-4ce7-ada6-2348a2004118/geothermal-energy-field-stockcake.jpg");
-    background-color: rgb(255, 234, 203);
-    background-blend-mode: multiply;
-    overflow-x: hidden;
-    max-height: 62.5rem;
-  }
-
-  .insulationBody {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    height: 40%;
-    width: 40%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-image: url("https://images.stockcake.com/public/0/c/c/0cc5e05f-eb49-4c23-ae96-0311754dffe8/attic-insulation-work-stockcake.jpg");
-    image-rendering: smooth;
-    background-color: rgba(31, 27, 27, 0.5);
-    background-blend-mode: multiply;
-    overflow-x: hidden;
-    min-width: 34.375rem;
-    min-height: 50rem;
-    max-height: 52.5rem;
-  }
-
-
-
-
-
-
-
-  .topnav {
-    overflow: hidden;
-    background-color: #1b2221;
-    word-spacing: 1cm;
-    color: white;
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    font-size: 1rem;
-    width: 100vw;
-    position: fixed;
-    z-index: 999;
-  }
+.body1 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://images.stockcake.com/public/a/e/5/ae5db097-60cb-4035-a8a0-916d9f681598/solar-powered-suburban-home-stockcake.jpg");
+  background-color: rgba(49, 45, 42, 0.5);
+  background-blend-mode: multiply;
+  overflow-x: hidden;
+  min-width: 34.375rem;
+  min-height: 31.25rem;
   
-  .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 1.25rem 0.625rem;
-    text-decoration: none;
-    font-size: 1.063rem;
-  }
+}
+.body2 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  height: 62.5rem;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://images.stockcake.com/public/9/e/9/9e9a896d-fb34-4b47-ac39-34e9a8b35d15/solar-panel-installation-stockcake.jpg");
+  background-color: rgba(49, 45, 42, 0.5);
+  background-blend-mode: multiply;
+  overflow-x: hidden;
+  min-width: 34.375rem;
+  min-height: 31.25rem;
   
-  .topnav a:hover {
-    color: #209789;
   
-    transition: 0.6s;
-  }
+}
+.body3 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(255, 238, 225, 0.5);
   
-  .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
-  } 
+}
 
-  .topnav2 {
-    overflow: hidden;
-    background-color: #1b2221;
-    word-spacing: 1cm;
-    color: white;
-    text-align: center;
-    font-size: 1rem;
-    background-size: cover;
-    background-position: center;
-    width: 100vw;
-    position: fixed;
-    z-index: 999;
-  }
+.lifeBody {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  height: 4%;
+  width: 4%;
+  background-image: url("https://images.stockcake.com/public/1/b/5/1b5722ec-84b3-4fca-b6b6-6ef22e77ded3/joyful-dog-running-stockcake.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color:rgb(243, 235, 235);
+  background-blend-mode: multiply;
+  margin-bottom: 31.25rem;
   
-  .topnav2 a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 1.25rem 0.625rem;
-    text-decoration: none;
-    font-size: 1.063rem;
-    
-  }
+}
+
+.additionalBody {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  height: 4%;
+  width: 4%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color:rgb(243, 235, 235);
+  background-blend-mode: multiply;
+  margin-bottom: 31.25rem;
+}
+
+.sunBody {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("https://images.stockcake.com/public/0/1/3/013a35ac-2c88-4ada-bd6d-45c145819327_large/solar-energy-dawn-stockcake.jpg");
+  background-color: rgba(49, 45, 42, 0.5);
+  background-blend-mode: multiply;
+  overflow-x: hidden;
+  min-width: 34.375rem;
+  max-height: 62.5rem;
   
-  .topnav2 a:hover {
-    color: #209789;
+}
+
+.geoBody {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  height: 2%;
+  width: 2%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://images.stockcake.com/public/5/3/5/535b27c5-b513-4ce7-ada6-2348a2004118/geothermal-energy-field-stockcake.jpg");
+  background-color: rgb(255, 234, 203);
+  background-blend-mode: multiply;
+  overflow-x: hidden;
+  max-height: 62.5rem;
+}
+
+.insulationBody {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  height: 40%;
+  width: 40%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://images.stockcake.com/public/0/c/c/0cc5e05f-eb49-4c23-ae96-0311754dffe8/attic-insulation-work-stockcake.jpg");
+  image-rendering: smooth;
+  background-color: rgba(31, 27, 27, 0.5);
+  background-blend-mode: multiply;
+  overflow-x: hidden;
+  min-width: 34.375rem;
+  min-height: 50rem;
+  max-height: 52.5rem;
+}
+
+
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #1b2221;
+  word-spacing: 1cm;
+  color: white;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-size: 1rem;
+  width: 100vw;
+  position: fixed;
+  z-index: 999;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1.25rem 0.625rem;
+  text-decoration: none;
+  font-size: 1.063rem;
+}
+
+.topnav a:hover {
+  color: #209789;
+
+  transition: 0.6s;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+} 
+
+.topnav2 {
+  overflow: hidden;
+  background-color: #1b2221;
+  word-spacing: 1cm;
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  position: fixed;
+  z-index: 999;
+}
+
+.topnav2 a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1.25rem 0.625rem;
+  text-decoration: none;
+  font-size: 1.063rem;
   
-    transition: 0.6s;
-  }
-  
-  .topnav2 a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
-
-
-  .titles {
-    text-indent: 17.65cm;
-    color: white;
-  }
-  .titles em {
-    color: black;
-  }
-  
-  #buttons {
-    display: inline-block;
-    border-radius: 0.438rem;
-    background: transparent;
-    transition: background-image 2s ease-out;
-    border: rgb(0, 0, 0), 0.625rem;
-    border-width: 0.313rem;
-    color: #adc0ff;
-    text-align: center;
-    font-size: 1.063rem;
-    padding: 1.875rem;
-    width: 15.625rem;
-    transition: all 0.5s;
-    cursor: pointer;
-    position: relative;
-    margin: 0.313rem;
-    margin-left: 6.25rem;
-    z-index: 0;
-   }
-   
-   #buttons span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.2s;
-   }
-
-   #buttons:hover span:after {
-    opacity: 1;
-    right: 0;
-    transition: 0.2s;
-   }
-
-   #buttons:hover {
-    animation: transparent;
-    animation-duration: 100ms;
-    background-color: rgba(103, 146, 103, 0.466);
-    border-width: 0.625rem;
-    border-color: rgb(48, 116, 48);
-    color:rgb(255, 255, 255);
-    font-weight: 200;
-    font-size: 1.125rem;
-   }
-
-   #buttons2 {
-    display: inline-block;
-    border-radius: 0.438rem;
-    background-color: white;
-    border: rgb(0, 0, 0), 0.625rem;
-    color: #000000;
-    text-align: center;
-    font-size: 1.063rem;
-    padding: 1.5rem;
-    min-width: 9.375rem;
-    width: 50%;
-    transition: all 0.5s;
-    cursor: pointer;
-    margin: 0.313rem;
-    z-index: 3;
-   }
-   
-   #buttons2 span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
-   }
-   
-   #buttons2 span:after {
-    content: '>>';
-    position: absolute;
-    opacity: 0;
-    top: 0;
-    right: -0.938rem;
-    transition: 0.5s;
-   }
-   
-   #buttons2:hover span {
-    padding-right: 0.938rem;
-   }
-   
-   #buttons2:hover span:after {
-    opacity: 1;
-    right: 0;
-    transition: 0.5s;
-   }
-
-   #buttons2:hover {
-    background: linear-gradient(45deg, rgba(0, 150, 0, 0.404), white);
-   }
-
-
-   .runPicture {
-    position: relative;
-    width: 30%;
-    height: auto;
-    top: 20rem;
-    float: left;
-   }
-
-
-   .greenHomePicture {
-    width: 30%;
-    height: auto;
-    position: relative;
-    bottom: 28rem;
-    left: 35rem;
-   }
-
-
-   .lightBulbPicture {
-    position: relative;
-    width: 40%;
-    height: auto;
-    bottom: 20rem;
-    float: right;
-   }
-
-
-
-
-
-
-
-
-   .front {
-    font-size: 3rem;
-    color: aliceblue;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-   }
-
-
-   .beginPage {
-    position: absolute;
-    background-color: white;
-    max-width: 118.938rem;
-    min-width: 50%;
-    width: 100vw;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   }
-
-   .intro {
-    position: relative;
-    text-align: center;
-    width: 100vw;
-    background-color: rgb(255, 255, 255);
-    font-size: 1.563rem;
-    padding: .5rem;
-    
-   }
-
-   .main_content {
-    padding-left:9.375rem;
-    padding: 6.25rem;
-    background-color:rgb(243, 235, 235);
-    overflow-x: hidden;
-   }
-
-   .mainLifestyle {
-    position: absolute;
-    width: 30%;
-    left: 49%;
-    top: 44%;
-    margin: 3.125rem;
-    min-width: 12.5rem;
-    padding: 2.5rem;
-    border-radius: 74%;
-    background-color: #f1fdfb;
-    text-align: center;
-
-   }
-
-   .mainPlan {
-    background-color: #f8eef8;
-    width: 30%;
-    padding: 1.563rem;
-    margin-bottom: 2%;
-    border-radius: 1.25rem;
-    min-width: 12.5rem;
-   }
-
-   .mainOther {
-    background-color: #e8f8e1;
-    width: 30%;
-    padding: 1.563rem;
-    top: 5rem;
-    border-radius: 1.25rem;
-    min-width: 12.5rem;
-   }
-
-
-
-
-
-
-
-
-
-
-   .plan_heading {
-    text-align: center;
-    font-size: 1.875rem;
-    width: 100vw;
-    color:white
-   }
-
-   .plan_content {
-    background-color: rgb(243, 234, 234);
-    padding-bottom: 4.375rem;
-    padding-top: 1.875rem;
-    width: 100vw;
-    margin-right: 3.75rem;
-    text-align: center;
-    font-size: 1.25rem;
-
-   }
-
-   .plan_table {
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top:5rem;
-    margin-bottom:5rem;
-    border-collapse: separate;
-    border-spacing: 1.25rem;
-   }
-
-   .plan_content td {
-    border: solid rgb(48, 46, 46);
-    padding: 3.125rem;
-    box-shadow: -0.375rem -0.313rem 0.313rem -0.25rem black;
-   }
-
-   .plan_content h1 {
-    background-color: rgb(250, 241, 241);
-    padding: 3.125rem;
-   }
-
-  .diagram {
-    background-position: center;
-    background-position: fixed;
-    background-repeat: no-repeat;
-    height: 140%;
-    width: 100%;
-    background-image: url("https://images.stockcake.com/public/e/d/7/ed70dfed-00b9-4d51-898b-2391d384b709/geothermal-energy-illustration-stockcake.jpg");
-    background-blend-mode: multiply;
-    background-color: rgb(243, 235, 235);
-    width: 100vw;
-
-  }
-
-  
-   #solarButton {
-    display: inline-block;
-    border-radius: 0.438rem;
-    background-color: rgb(243, 235, 235);
-    border: rgb(0, 0, 0), 0.625rem;
-    color: #000000;
-    text-align: center;
-    font-size: 1.063rem;
-    padding: 1.875rem;
-    width: 15.625rem;
-    transition: all 0.5s;
-    cursor: pointer;
-    position: relative;
-    top: 5%;
-    margin: 0.313rem;
-    left: 25%;
-    z-index: 9;
-   }
-   
-   #solarButton span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.2s;
-   }
-
-   #solarButton:hover span:after {
-    opacity: 0.5;
-    right: 0;
-    transition: 0.2s;
-   }
-
-   #solarButton:hover {
-    background: linear-gradient(70deg, rgba(0, 52, 121, 0.966) 0.15%, rgb(236, 224, 50));
-    color:rgb(182, 238, 28);
-    font-weight: 200;
-    font-size: 1.125rem;
-   }
-
-
-   #insulationButton {
-    display: inline-block;
-    border-radius: 0.438rem;
-    background-color: rgb(243, 235, 235);
-    border: rgb(0, 0, 0), 0.625rem;
-    color: #000000;
-    text-align: center;
-    font-size: 1.063rem;
-    padding: 1.875rem;
-    width: 15.625rem;
-    transition: all 0.5s;
-    cursor: pointer;
-    position: relative;
-    top: 17%;
-    margin-left: 55%;
-    z-index: 3;
-   }
-   
-   #insulationButton span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.2s;
-   }
-   
-   #insulationButton:hover span:after {
-    opacity: 1;
-    right: 0;
-    transition: 0.2s;
-    color:rgb(0, 0, 0);
-   }
-
-   #insulationButton:hover {
-    background: linear-gradient(60deg, rgba(177, 143, 72, 0.685) 20%, rgb(190, 158, 158));
-    color:rgb(228, 82, 203);
-    font-weight: 400;
-    font-size: 1.125rem;
-   }
-  
-
-   #geoButton {
-    display: inline-block;
-    border-radius: 0.438rem;
-    background-color: rgb(243, 235, 235);
-    border: rgb(0, 0, 0), 0.625rem;
-    color: #000000;
-    text-align: center;
-    font-size: 1.063rem;
-    padding: 1.875rem;
-    width: 15.625rem;
-    transition: all 0.5s;
-    cursor: pointer;
-    position: relative;
-    margin: 0.313rem;
-    left: 17%;
-    top: 40%;
-    z-index: 3;
-   }
-   
-   #geoButton span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.2s;
-   }
-   
-
-   #geoButton:hover span:after {
-    opacity: 1;
-    right: 0;
-    transition: 0.2s;
-   }
-
-   #geoButton:hover {
-    background: linear-gradient(60deg, rgba(179, 0, 0, 0.692) 0.05%, rgb(50, 163, 255));
-    color:rgb(255, 255, 255);
-    font-weight: 400;
-    font-size: 1.125rem;
-   }
-
-   .solarTitle {
-    text-align: center;
-    font-size: 2.188rem;
-    width: 100vw;
-    color:white;
-    margin-top: 15%;
-   }
-
-   .solarHeading {
-    background-color: #dfe4b3;
-    text-align: center;
-    font-size: 2.188rem;
-    width: 100vw;
-    margin-top: 10%;
-    padding: 0.913rem;
-   }
-
-   .solarBasic {
-    margin-right: 1.5rem;
-    width: 100vw;
-    font-size: 1.125rem;
-    background-color: rgb(248, 252, 242);
-    padding: 2.813rem;
-    padding-left: 1.563rem;
-    padding-top: 0.313rem;
-    text-align: center;
-   }
-
-   .solarTypes {
-    background-color: rgb(248, 252, 242);
-    padding-top: 1.875rem;
-    width: 100vw;
-    margin-right: 3.75rem;
-    font-size: 1.25rem;
-    text-align: center;
-   }
-
-   .solarTable {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 1.25rem;
-    padding-bottom: 3.75rem;
-    border-collapse: separate;
-    border-spacing: 6.25rem;
-   }
-
-   .solarTable td {
-    border: solid rgb(48, 46, 46);
-    box-shadow: -0.25rem 1.875rem 4rem -0.375rem black;
-    padding: 5rem;
-    height: 3rem;
-    text-align: center;
-    
-   }
-
-   .solarTable tr {
-    text-align: center;
-    
-   }
-
-   .solarTable1:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-   }
-
-   .solarTable1:hover span:after{
-    position: relative;
-    text-align: left;
-    padding: 5rem;
-    content: 'Single-crystal panels made from silicon, typically providing for energy efficiency ranging from 15% to 20%. While one of the most expensive, these panels cover for their efficiency and an average lifespan of around 40 years. Alongside their notable heat tolerance, their smaller size also makes the most use of limited space. Average Cost of a 6kW Monocrystalline Solar Panel System is $6,000-$9,000.';
-    transition: 0.5s;
-   }
-  
-
-   .solarTable2:hover {
-    position: relative;
-    vertical-align: text-top;
-    text-align: center;
-    background-color: #1b257a;
-    color:#f1fdfb;
-    transition: 0.5s;
-   }
-
-   .solarTable2:hover span:after{
-    position: relative;
-    text-align: left;
-    padding: 5rem;
-    content: 'Multi-crystal silicon panels, performing at a lower efficiency range between 13% and 16%. In exchange, they are generally less expensive with a life span of 25-30 years. It is important to note that these panels will tend to cover a wider space and be more vulnerable to high temperature conditions. Average Cost of a 6kW Polycrystalline Solar Panel System is $4,500-$6,000.';
-    transition: 0.5s;
-   }
-
-
-   .solarTable3:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #411ea3;
-    color: white;
-    text-align: center;
-    transition: 0.5s;
-   }
-
-   .solarTable3:hover span:after{
-    position: relative;
-    text-align: left;
-    padding: 0rem;
-    content: 'Very thin layers of sheet panels that are flexible and therefore easier to install for specific needs and structures of rooftops. In exchange, these panels are less efficient in generating power with a range between 7% and 12%. The lifespan of thin film panels is around 10-20 years. On average, these panels cost $0.75 to $1.10 per watt. Average Cost of a 6kW Thin Film Solar Panel System is $4,500-$6,600.';
-    transition: 0.5s;
-   }
-
-
-
-   .solarCost {
-    position: relative;
-    margin-right: 1.5rem;
-    width: 100%;
-    font-size: 1.1rem;
-    background-color: rgb(246, 255, 233);
-    padding: 5rem;
-    padding-left: 2rem;
-    text-align: center;
-    top: 200%;
-   }
-
-   .solarList li{
-    text-align: center;
-    padding: 10rem;
-    list-style-type: none;
-   }
-
-
-
-
-
-
-
-
-   .geoTitle {
-    text-align: center;
-    font-size: 2.188rem;
-    width: 100vw;
-    color:white;
-   }
-
-   .geoHeading {
-    background: linear-gradient(180deg, rgb(153, 132, 10) 5%, rgb(0, 110, 37));
-    text-align: center;
-    font-size: 2.188rem;
-    color: rgb(193, 228, 193);
-    width: 100vw;
-    margin-top: 10%;
-    padding: 0.313rem;
-   }
-
-   .geoBasic {
-    width: 100vw;
-    font-size: 1.25rem;
-    background: linear-gradient(180deg, rgb(0, 110, 37), rgb(116, 54, 30));
-    color: rgb(201, 255, 199);
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    text-align: center;
-    
-   }
-
-
-
-   .geoTypes {
-    padding-top: 1.875rem;
-    width: 100vw;
-    background-color: rgb(116, 54, 30);
-    margin-right: 3.75rem;
-    font-size: 1.25rem;
-    text-align: center;
-    color: lightblue;
-   }
-
-
-
-
-   
-   .geoTable {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 1.25rem;
-    padding-bottom: 8.75rem;
-    border-collapse: separate;
-    border-spacing: 6.25rem;
-    
-   }
-
-   .geoTable td {
-    border: solid rgb(48, 46, 46);
-    box-shadow: -0.25rem 1.875rem 4rem -0.375rem black;
-    padding: 5rem;
-    height: 3rem;
-    text-align: center;
-    
-   }
-
-   .geoTable tr {
-    text-align: center;
-    background-color: rgb(90, 90, 90);
-    color: white;
-    
-   }
-
-
-
-   .geoTable1:hover {
-    position: relative;
-    vertical-align: text-top;
-    background: repeating-radial-gradient(rgba(6, 85, 175, 0.644), rgb(0, 49, 88));
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 30rem;
-   }
-
-   .geoTable1:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'In an open loop, water is taken from an external source and circulated through piping to transfer temperatures for heating or cooling. The water is then returned to their original source after having gone through the system. This is recommended for areas with a nearby supply of water which makes it possibly the cheapest. (ex. well, body of water). However, there is a possibility that the water will become contaminated. This generally costs around $15,000-$30,000.';
-    transition: 0.5s;
-   }
-
-
-   .geoTable2:hover {
-    position: relative;
-    vertical-align: text-top;
-    text-align: center;
-    background: radial-gradient(rgba(155, 0, 0, 0.644) 10%, rgba(81, 118, 148, 0.699));
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 30rem;
-   }
-
-   .geoTable2:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'A closed loop circulates an anti-freeze mixture through underground piping. This loop is recommended for extreme cold climates. This loop can cost anywhere from $25,000-$30,000.';
-    transition: 0.5s;
-   }
-
-
-   .geoTable3:hover {
-    position: relative;
-    vertical-align: text-top;
-    background: linear-gradient(90deg, rgb(83, 22, 22) 10%, rgb(30, 32, 100));
-    color: white;
-    text-align: center;
-    width: 30rem;
-    transition: 0.5s;
-   }
-
-   .geoTable3:hover span:after{
-    position: relative;
-    text-align: left; 
-    content: 'A shallow installation is typically dug about 2-6 ft deep, some going as deep as 10 ft, covering a wider area of land. This is best suited for areas with a larger space of land. Generally cost-effective for most residential installations ranging from $15,000-30,000.';
-    transition: 0.5s;
-   }
-  
-
-   .geoTable4:hover {
-    position: relative;
-    vertical-align: text-top;
-    background: linear-gradient(180deg, rgba(133, 0, 0, 0.644) 10%, rgba(0, 1, 83, 0.699));
-    color: white;
-    text-align: center;
-    width: 30rem;
-    transition: 0.5s;
-   }
-
-   .geoTable4:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'Very thin layers of sheet panels that are flexible and therefore easier to install for specific needs and structures of rooftops. In exchange, these panels are less efficient in generating power with a range between 7% and 12%. The lifespan of thin film panels is around 10-20 years. On average, these panels cost $0.75 to $1.10 per watt. Average Cost of a 6kW Thin Film Solar Panel System is $4,500-$6,600.';
-    transition: 0.5s;
-   }
-
-   .geoTax {
-    background: linear-gradient(180deg, rgb(116, 54, 30) 10%, rgba(255, 73, 17, 0.795));
-    box-shadow:  black;
-    font-size: 1.625rem;
-   }
-
-   .geotaxContent {
-    width:100vw;
-    padding-top: 2rem;
-    text-align: center;
-    font-size: 1.25rem;
-    background-color: rgba(255, 73, 17, 0.795);
-   }
-
-
-
-
-
-
-
-   .insulationHeading {
-    background-color: #e4d7b3;
-    text-align: center;
-    font-size: 2.188rem;
-    width: 100vw;
-    margin-top: 10%;
-    padding: 0.313rem;
-   }
-
-   .insulationBasic {
-    width: 100vw;
-    font-size: 1.125rem;
-    background-color: rgb(248, 252, 242);
-    padding: 2.8rem;
-    padding-left: 0.3%;
-    padding-top: 0.313rem;
-    text-align: center;
-   }
-
-  .insulation_heading {
-    text-align: center;
-    font-size: 1.875rem;
-    width: 100vw;
-    color:white
-   }
-
-   .R_value {
-    text-align: center;
-    font-size: 1.125rem;
-    width: 96vw;
-    padding: 2rem;
-   }
-
-   .insulationMaterial h1 {
-    background-color: rgb(245, 229, 209);
-    padding: 3.125rem;
-    padding-top: 2rem;
-   }
-
-   .insulationMaterial {
-    background-color: rgb(253, 242, 224);
-    padding-bottom: 4.375rem;
-    width: 100vw;
-    margin-right: 3.75rem;
-    text-align: center;
-    font-size: 1.25rem;
-
-   }
-
-   .insulation_table {
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top:7rem;
-    margin-bottom:7rem;
-    border-collapse: separate;
-    border-spacing: 1.25rem;
-   }
-
-   .insulationMaterial td {
-    border: solid rgb(48, 46, 46);
-    padding: 3.125rem;
-    box-shadow: -0.375rem -0.313rem 0.313rem -0.25rem black;
-   }
-
-
-
-   .Fiber:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .Fiber:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'Fiberglass is a common insulation material made from fine glass fibers that were spun from molten glass. Its common use can be seen in blankets, rigid boards, and loose-fill insulation. ';
-    transition: 0.5s;
-   }
-  
-   .Cell:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .Cell:hover span:after{
-    position: relative;
-    text-align: left;
-    content: ' Cellulose insulation is typically made from recycled paper products. Cellulose insulation can be installed in new and existing homes, usually a loose-fill insulation. In addition, cellulose material may be manufactured with borate, increasing fire and insect resistance.';
-    transition: 0.5s;
-   }
-  
-   .Foam:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .Foam:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'Foam insulation may be made from various types of plastic which include polystyrene, polyisocyanurate or polyurethane. Foam insulations can be sprayed or installed in rigid foam boards. In foam insulation, the R-value of these materials can vary depending on factors like density as possibly also providing resistance to fire and vapor.';
-    transition: 0.5s;
-   }
-  
-   .Wool:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .Wool:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'Mineral wool consists of either rock wool or slag wool. Both rock wool and slag wool are man-made materials, differing only in the stuff that it’s made out of. Rock wool is made out of natural materials like basalt. Slag wool is made from the waste product of molten metal known as blast furnace slag. In addition, mineral wool comes fire resistant and can commonly be seen in blanket and loose-fill insulation.';
-    transition: 0.5s;
-   }
-  
-
-   .Facing:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .Facing:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'The facing is more like an addition to insulation, being attached to insulation materials in which it typically protects and holds the insulation together. Depending on the type of facing, it may also serve as an air barrier, radiant barrier, vapor barrier, or even provide fire resistance.';
-    transition: 0.5s;
-   }
-
-   .N_Fiber:hover {
-    position: relative;
-    vertical-align: text-top;
-    background-color: #26262e;
-    color:#f1fdfb;
-    transition: 0.5s;
-    width: 25rem;
-   }
-
-   .N_Fiber:hover span:after{
-    position: relative;
-    text-align: left;
-    content: 'Insulation materials from natural fiber materials. These include cotton, sheep’s wool, and straw. Cotton insulation consists of both recycled cotton and plastic fibers mixed with borate--the same substance used in cellulose insulation. Sheep wool insulation is also created with borate. Straw insulation boards absorb sound for interior partitions.';
-    transition: 0.5s;
-   }
-  
-  .insulationType {
-    background-color: #ffe7b3;
-    width: 100vw;
-    padding: 1.5rem;
-    text-align: center;
-    font-size: 1.25rem;
-  }
-
-  .in_typeLeft {
-    margin: 3rem;
-    width: 50vw;
-    padding: 2rem;
-    border: solid black;
-    border-radius: 0.5rem;
-    text-align: center;
-    font-size: 1.1rem;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-  }
-
-  .leftList {
-    text-align: left;
-  }
-
-  .in_typeRight {
-    margin: 2rem;
-    width: 50vw;
-    padding: 1.5rem;
-    margin-left: 100%;
-    border: solid black;
-    border-radius: 0.5rem;
-    vertical-align: top;
-    font-size: 1.1rem;
-    text-align: center;
-    list-style-type: none;
-  }
-
-  .insulationTax {
-    margin-right: 3rem;
-    padding: 1.5rem;
-    width: 100vw;
-    background-color: rgb(255, 233, 204);
-    font-size: 1.1rem;
-    text-align: center;
-  }
-
-  .ins_taxList {
-    list-style-type: none;
-  }
-
-
-
-
-
-
-
-
-
-   .additionContainer {
-    margin-left: 450%;
-    width: 60vw;
-    background: linear-gradient(60deg, rgb(52, 206, 104) 0.05%, rgb(193, 255, 193));;
-    transform: skew(-10deg);
-   }
-   
-   .additionHeading {
-    transform: skew(10deg);
-    padding: 5.5rem;
-    padding-top: 8rem;
-    text-align: center;
-    margin: 0 auto 0;
-   }
-
-   .buyEnergy {
-    width: 100vw;
-    text-align: center;
-    font-size: 1.4rem;
-   }
-
-   .buyEnergy p {
-    margin-right: 10rem;
-    margin-left: 10rem;
-   }
-   .buyOptions {
-    background-color: #b8f7c09d;
-    margin:8rem;
-    margin-top:0;
-    text-align: center;
-    border: solid black;
-    border-radius: 3rem;
+}
+
+.topnav2 a:hover {
+  color: #209789;
+
+  transition: 0.6s;
+}
+
+.topnav2 a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+.titles {
+  text-indent: 17.65cm;
+  color: white;
+}
+.titles em {
+  color: black;
+}
+
+#buttons {
+  display: inline-block;
+  border-radius: 0.438rem;
+  background: transparent;
+  transition: background-image 2s ease-out;
+  border: rgb(0, 0, 0), 0.625rem;
+  border-width: 0.313rem;
+  color: #adc0ff;
+  text-align: center;
+  font-size: 1.063rem;
+  padding: 1.875rem;
+  width: 15.625rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  position: relative;
+  margin: 0.313rem;
+  margin-left: 6.25rem;
+  z-index: 0;
+ }
+ 
+ #buttons span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+ }
+
+ #buttons:hover span:after {
+  opacity: 1;
+  right: 0;
+  transition: 0.2s;
+ }
+
+ #buttons:hover {
+  animation: transparent;
+  animation-duration: 100ms;
+  background-color: rgba(103, 146, 103, 0.466);
+  border-width: 0.625rem;
+  border-color: rgb(48, 116, 48);
+  color:rgb(255, 255, 255);
+  font-weight: 200;
+  font-size: 1.125rem;
+ }
+
+ #buttons2 {
+  display: inline-block;
+  border-radius: 0.438rem;
+  background-color: white;
+  border: rgb(0, 0, 0), 0.625rem;
+  color: #000000;
+  text-align: center;
+  font-size: 1.063rem;
+  padding: 1.5rem;
+  min-width: 9.375rem;
+  width: 50%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0.313rem;
+  z-index: 3;
+ }
+ 
+ #buttons2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+ }
+ 
+ #buttons2 span:after {
+  content: '>>';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -0.938rem;
+  transition: 0.5s;
+ }
+ 
+ #buttons2:hover span {
+  padding-right: 0.938rem;
+ }
+ 
+ #buttons2:hover span:after {
+  opacity: 1;
+  right: 0;
+  transition: 0.5s;
+ }
+
+ #buttons2:hover {
+  background: linear-gradient(45deg, rgba(0, 150, 0, 0.404), white);
+ }
+
+
+ .runPicture {
+  position: relative;
+  width: 30%;
+  height: auto;
+  top: 20rem;
+  float: left;
+ }
+
+
+ .greenHomePicture {
+  width: 30%;
+  height: auto;
+  position: relative;
+  bottom: 28rem;
+  left: 35rem;
+ }
+
+
+ .lightBulbPicture {
+  position: relative;
+  width: 40%;
+  height: auto;
+  bottom: 20rem;
+  float: right;
  }
 
 
 
 
 
- .lifeHeading {
+
+
+
+ .front {
+  font-size: 3rem;
+  color: aliceblue;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ }
+
+
+ .beginPage {
+  position: absolute;
+  background-color: white;
+  max-width: 118.938rem;
+  min-width: 50%;
+  width: 100vw;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .intro {
+  position: relative;
+  text-align: center;
+  width: 100vw;
+  background-color: rgb(255, 255, 255);
+  font-size: 1.563rem;
+  padding: .5rem;
+  
+ }
+
+ .main_content {
+  padding-left:9.375rem;
+  padding: 6.25rem;
+  background-color:rgb(243, 235, 235);
+  overflow-x: hidden;
+ }
+
+ .mainLifestyle {
+  position: absolute;
+  width: 30%;
+  left: 49%;
+  top: 44%;
+  margin: 3.125rem;
+  min-width: 12.5rem;
+  padding: 2.5rem;
+  border-radius: 74%;
+  background-color: #f1fdfb;
+  text-align: center;
+
+ }
+
+ .mainPlan {
+  background-color: #f8eef8;
+  width: 30%;
+  padding: 1.563rem;
+  margin-bottom: 2%;
+  border-radius: 1.25rem;
+  min-width: 12.5rem;
+ }
+
+ .mainOther {
+  background-color: #e8f8e1;
+  width: 30%;
+  padding: 1.563rem;
+  top: 5rem;
+  border-radius: 1.25rem;
+  min-width: 12.5rem;
+ }
+
+
+
+
+
+
+
+
+
+
+ .plan_heading {
+  text-align: center;
+  font-size: 1.875rem;
+  width: 100vw;
+  color:white
+ }
+
+ .plan_content {
+  background-color: rgb(243, 234, 234);
+  padding-bottom: 4.375rem;
+  padding-top: 1.875rem;
+  width: 100vw;
+  margin-right: 3.75rem;
+  text-align: center;
+  font-size: 1.25rem;
+
+ }
+
+ .plan_table {
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5rem;
+  margin-bottom:5rem;
+  border-collapse: separate;
+  border-spacing: 1.25rem;
+ }
+
+ .plan_content td {
+  border: solid rgb(48, 46, 46);
+  padding: 3.125rem;
+  box-shadow: -0.375rem -0.313rem 0.313rem -0.25rem black;
+ }
+
+ .plan_content h1 {
+  background-color: rgb(250, 241, 241);
+  padding: 3.125rem;
+ }
+
+.diagram {
+  background-position: center;
+  background-position: fixed;
+  background-repeat: no-repeat;
+  height: 140%;
+  width: 100%;
+  background-image: url("https://images.stockcake.com/public/e/d/7/ed70dfed-00b9-4d51-898b-2391d384b709/geothermal-energy-illustration-stockcake.jpg");
+  background-blend-mode: multiply;
+  background-color: rgb(243, 235, 235);
+  width: 100vw;
+
+}
+
+
+ #solarButton {
+  display: inline-block;
+  border-radius: 0.438rem;
+  background-color: rgb(243, 235, 235);
+  border: rgb(0, 0, 0), 0.625rem;
+  color: #000000;
+  text-align: center;
+  font-size: 1.063rem;
+  padding: 1.875rem;
+  width: 15.625rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  position: relative;
+  top: 5%;
+  margin: 0.313rem;
+  left: 25%;
+  z-index: 9;
+ }
+ 
+ #solarButton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+ }
+
+ #solarButton:hover span:after {
+  opacity: 0.5;
+  right: 0;
+  transition: 0.2s;
+ }
+
+ #solarButton:hover {
+  background: linear-gradient(70deg, rgba(0, 52, 121, 0.966) 0.15%, rgb(236, 224, 50));
+  color:rgb(182, 238, 28);
+  font-weight: 200;
+  font-size: 1.125rem;
+ }
+
+
+ #insulationButton {
+  display: inline-block;
+  border-radius: 0.438rem;
+  background-color: rgb(243, 235, 235);
+  border: rgb(0, 0, 0), 0.625rem;
+  color: #000000;
+  text-align: center;
+  font-size: 1.063rem;
+  padding: 1.875rem;
+  width: 15.625rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  position: relative;
+  top: 17%;
+  margin-left: 55%;
+  z-index: 3;
+ }
+ 
+ #insulationButton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+ }
+ 
+ #insulationButton:hover span:after {
+  opacity: 1;
+  right: 0;
+  transition: 0.2s;
+  color:rgb(0, 0, 0);
+ }
+
+ #insulationButton:hover {
+  background: linear-gradient(60deg, rgba(177, 143, 72, 0.685) 20%, rgb(190, 158, 158));
+  color:rgb(228, 82, 203);
+  font-weight: 400;
+  font-size: 1.125rem;
+ }
+
+
+ #geoButton {
+  display: inline-block;
+  border-radius: 0.438rem;
+  background-color: rgb(243, 235, 235);
+  border: rgb(0, 0, 0), 0.625rem;
+  color: #000000;
+  text-align: center;
+  font-size: 1.063rem;
+  padding: 1.875rem;
+  width: 15.625rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  position: relative;
+  margin: 0.313rem;
+  left: 17%;
+  top: 40%;
+  z-index: 3;
+ }
+ 
+ #geoButton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+ }
+ 
+
+ #geoButton:hover span:after {
+  opacity: 1;
+  right: 0;
+  transition: 0.2s;
+ }
+
+ #geoButton:hover {
+  background: linear-gradient(60deg, rgba(179, 0, 0, 0.692) 0.05%, rgb(50, 163, 255));
+  color:rgb(255, 255, 255);
+  font-weight: 400;
+  font-size: 1.125rem;
+ }
+
+ .solarTitle {
+  text-align: center;
+  font-size: 2.188rem;
+  width: 100vw;
+  color:white;
+  margin-top: 15%;
+ }
+
+ .solarHeading {
+  background-color: #dfe4b3;
+  text-align: center;
+  font-size: 2.188rem;
+  width: 100vw;
+  margin-top: 10%;
+  padding: 0.913rem;
+ }
+
+ .solarBasic {
+  margin-right: 1.5rem;
+  width: 100vw;
+  font-size: 1.125rem;
+  background-color: rgb(248, 252, 242);
+  padding: 2.813rem;
+  padding-left: 1.563rem;
+  padding-top: 0.313rem;
+  text-align: center;
+ }
+
+ .solarTypes {
+  background-color: rgb(248, 252, 242);
+  padding-top: 1.875rem;
+  width: 100vw;
+  margin-right: 3.75rem;
+  font-size: 1.25rem;
+  text-align: center;
+ }
+
+ .solarTable {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1.25rem;
+  padding-bottom: 3.75rem;
+  border-collapse: separate;
+  border-spacing: 6.25rem;
+ }
+
+ .solarTable td {
+  border: solid rgb(48, 46, 46);
+  box-shadow: -0.25rem 1.875rem 4rem -0.375rem black;
+  padding: 5rem;
+  height: 3rem;
+  text-align: center;
+  
+ }
+
+ .solarTable tr {
+  text-align: center;
+  
+ }
+
+ .solarTable1:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+ }
+
+ .solarTable1:hover span:after{
+  position: relative;
+  text-align: left;
+  padding: 5rem;
+  content: 'Single-crystal panels made from silicon, typically providing for energy efficiency ranging from 15% to 20%. While one of the most expensive, these panels cover for their efficiency and an average lifespan of around 40 years. Alongside their notable heat tolerance, their smaller size also makes the most use of limited space. Average Cost of a 6kW Monocrystalline Solar Panel System is $6,000-$9,000.';
+  transition: 0.5s;
+ }
+
+
+ .solarTable2:hover {
+  position: relative;
+  vertical-align: text-top;
+  text-align: center;
+  background-color: #1b257a;
+  color:#f1fdfb;
+  transition: 0.5s;
+ }
+
+ .solarTable2:hover span:after{
+  position: relative;
+  text-align: left;
+  padding: 5rem;
+  content: 'Multi-crystal silicon panels, performing at a lower efficiency range between 13% and 16%. In exchange, they are generally less expensive with a life span of 25-30 years. It is important to note that these panels will tend to cover a wider space and be more vulnerable to high temperature conditions. Average Cost of a 6kW Polycrystalline Solar Panel System is $4,500-$6,000.';
+  transition: 0.5s;
+ }
+
+
+ .solarTable3:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #411ea3;
+  color: white;
+  text-align: center;
+  transition: 0.5s;
+ }
+
+ .solarTable3:hover span:after{
+  position: relative;
+  text-align: left;
+  padding: 0rem;
+  content: 'Very thin layers of sheet panels that are flexible and therefore easier to install for specific needs and structures of rooftops. In exchange, these panels are less efficient in generating power with a range between 7% and 12%. The lifespan of thin film panels is around 10-20 years. On average, these panels cost $0.75 to $1.10 per watt. Average Cost of a 6kW Thin Film Solar Panel System is $4,500-$6,600.';
+  transition: 0.5s;
+ }
+
+
+
+ .solarCost {
+  position: relative;
+  margin-right: 1.5rem;
+  width: 100%;
+  font-size: 1.1rem;
+  background-color: rgb(246, 255, 233);
+  padding: 5rem;
+  padding-left: 2rem;
+  text-align: center;
+  top: 200%;
+ }
+
+ .solarList li{
+  text-align: center;
+  padding: 10rem;
+  list-style-type: none;
+ }
+
+
+
+
+
+
+
+
+ .geoTitle {
+  text-align: center;
+  font-size: 2.188rem;
+  width: 100vw;
+  color:white;
+ }
+
+ .geoHeading {
+  background: linear-gradient(180deg, rgb(153, 132, 10) 5%, rgb(0, 110, 37));
+  text-align: center;
+  font-size: 2.188rem;
+  color: rgb(193, 228, 193);
+  width: 100vw;
+  margin-top: 10%;
+  padding: 0.313rem;
+ }
+
+ .geoBasic {
+  width: 100vw;
+  font-size: 1.25rem;
+  background: linear-gradient(180deg, rgb(0, 110, 37), rgb(116, 54, 30));
+  color: rgb(201, 255, 199);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  
+ }
+
+
+
+ .geoTypes {
+  padding-top: 1.875rem;
+  width: 100vw;
+  background-color: rgb(116, 54, 30);
+  margin-right: 3.75rem;
+  font-size: 1.25rem;
+  text-align: center;
+  color: lightblue;
+ }
+
+
+
+
+ 
+ .geoTable {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1.25rem;
+  padding-bottom: 8.75rem;
+  border-collapse: separate;
+  border-spacing: 6.25rem;
+  
+ }
+
+ .geoTable td {
+  border: solid rgb(48, 46, 46);
+  box-shadow: -0.25rem 1.875rem 4rem -0.375rem black;
+  padding: 5rem;
+  height: 3rem;
+  text-align: center;
+  
+ }
+
+ .geoTable tr {
+  text-align: center;
+  background-color: rgb(90, 90, 90);
+  color: white;
+  
+ }
+
+
+
+ .geoTable1:hover {
+  position: relative;
+  vertical-align: text-top;
+  background: repeating-radial-gradient(rgba(6, 85, 175, 0.644), rgb(0, 49, 88));
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 30rem;
+ }
+
+ .geoTable1:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'In an open loop, water is taken from an external source and circulated through piping to transfer temperatures for heating or cooling. The water is then returned to their original source after having gone through the system. This is recommended for areas with a nearby supply of water which makes it possibly the cheapest. (ex. well, body of water). However, there is a possibility that the water will become contaminated. This generally costs around $15,000-$30,000.';
+  transition: 0.5s;
+ }
+
+
+ .geoTable2:hover {
+  position: relative;
+  vertical-align: text-top;
+  text-align: center;
+  background: radial-gradient(rgba(155, 0, 0, 0.644) 10%, rgba(81, 118, 148, 0.699));
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 30rem;
+ }
+
+ .geoTable2:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'A closed loop circulates an anti-freeze mixture through underground piping. This loop is recommended for extreme cold climates. This loop can cost anywhere from $25,000-$30,000.';
+  transition: 0.5s;
+ }
+
+
+ .geoTable3:hover {
+  position: relative;
+  vertical-align: text-top;
+  background: linear-gradient(90deg, rgb(83, 22, 22) 10%, rgb(30, 32, 100));
+  color: white;
+  text-align: center;
+  width: 30rem;
+  transition: 0.5s;
+ }
+
+ .geoTable3:hover span:after{
+  position: relative;
+  text-align: left; 
+  content: 'A shallow installation is typically dug about 2-6 ft deep, some going as deep as 10 ft, covering a wider area of land. This is best suited for areas with a larger space of land. Generally cost-effective for most residential installations ranging from $15,000-30,000.';
+  transition: 0.5s;
+ }
+
+
+ .geoTable4:hover {
+  position: relative;
+  vertical-align: text-top;
+  background: linear-gradient(180deg, rgba(133, 0, 0, 0.644) 10%, rgba(0, 1, 83, 0.699));
+  color: white;
+  text-align: center;
+  width: 30rem;
+  transition: 0.5s;
+ }
+
+ .geoTable4:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'Deep installation systems using a narrower space of land, where each pipe is typically 20 ft apart and 100 to 400 ft deep. It is recommended for suburban or urban areas where space is limited outside of your own property. The average costs ranges from $25,000-40,000.';
+  transition: 0.5s;
+ }
+
+ .geoTax {
+  background: linear-gradient(180deg, rgb(116, 54, 30) 10%, rgba(255, 73, 17, 0.795));
+  box-shadow:  black;
+  font-size: 1.625rem;
+ }
+
+ .geotaxContent {
+  width:100vw;
+  padding-top: 2rem;
+  text-align: center;
+  font-size: 1.25rem;
+  background-color: rgba(255, 73, 17, 0.795);
+ }
+
+
+
+
+
+
+
+ .insulationHeading {
+  background-color: #e4d7b3;
+  text-align: center;
+  font-size: 2.188rem;
+  width: 100vw;
+  margin-top: 10%;
+  padding: 0.313rem;
+ }
+
+ .insulationBasic {
+  width: 100vw;
+  font-size: 1.125rem;
+  background-color: rgb(248, 252, 242);
+  padding: 2.8rem;
+  padding-left: 0.3%;
+  padding-top: 0.313rem;
+  text-align: center;
+ }
+
+.insulation_heading {
+  text-align: center;
+  font-size: 1.875rem;
+  width: 100vw;
+  color:white
+ }
+
+ .R_value {
+  text-align: center;
+  font-size: 1.125rem;
+  width: 96vw;
+  padding: 2rem;
+ }
+
+ .insulationMaterial h1 {
+  background-color: rgb(245, 229, 209);
+  padding: 3.125rem;
+  padding-top: 2rem;
+ }
+
+ .insulationMaterial {
+  background-color: rgb(253, 242, 224);
+  padding-bottom: 4.375rem;
+  width: 100vw;
+  margin-right: 3.75rem;
+  text-align: center;
+  font-size: 1.25rem;
+
+ }
+
+ .insulation_table {
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:7rem;
+  margin-bottom:7rem;
+  border-collapse: separate;
+  border-spacing: 1.25rem;
+ }
+
+ .insulationMaterial td {
+  border: solid rgb(48, 46, 46);
+  padding: 3.125rem;
+  box-shadow: -0.375rem -0.313rem 0.313rem -0.25rem black;
+ }
+
+
+
+ .Fiber:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 25rem;
+ }
+
+ .Fiber:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'Fiberglass is a common insulation material made from fine glass fibers that were spun from molten glass. Its common use can be seen in blankets, rigid boards, and loose-fill insulation. ';
+  transition: 0.5s;
+ }
+
+ .Cell:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 25rem;
+ }
+
+ .Cell:hover span:after{
+  position: relative;
+  text-align: left;
+  content: ' Cellulose insulation is typically made from recycled paper products. Cellulose insulation can be installed in new and existing homes, usually a loose-fill insulation. In addition, cellulose material may be manufactured with borate, increasing fire and insect resistance.';
+  transition: 0.5s;
+ }
+
+ .Foam:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 25rem;
+ }
+
+ .Foam:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'Foam insulation may be made from various types of plastic which include polystyrene, polyisocyanurate or polyurethane. Foam insulations can be sprayed or installed in rigid foam boards. In foam insulation, the R-value of these materials can vary depending on factors like density as possibly also providing resistance to fire and vapor.';
+  transition: 0.5s;
+ }
+
+ .Wool:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 25rem;
+ }
+
+ .Wool:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'Mineral wool consists of either rock wool or slag wool. Both rock wool and slag wool are man-made materials, differing only in the stuff that it’s made out of. Rock wool is made out of natural materials like basalt. Slag wool is made from the waste product of molten metal known as blast furnace slag. In addition, mineral wool comes fire resistant and can commonly be seen in blanket and loose-fill insulation.';
+  transition: 0.5s;
+ }
+
+
+ .Facing:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 25rem;
+ }
+
+ .Facing:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'The facing is more like an addition to insulation, being attached to insulation materials in which it typically protects and holds the insulation together. Depending on the type of facing, it may also serve as an air barrier, radiant barrier, vapor barrier, or even provide fire resistance.';
+  transition: 0.5s;
+ }
+
+ .N_Fiber:hover {
+  position: relative;
+  vertical-align: text-top;
+  background-color: #26262e;
+  color:#f1fdfb;
+  transition: 0.5s;
+  width: 25rem;
+ }
+
+ .N_Fiber:hover span:after{
+  position: relative;
+  text-align: left;
+  content: 'Insulation materials from natural fiber materials. These include cotton, sheep’s wool, and straw. Cotton insulation consists of both recycled cotton and plastic fibers mixed with borate--the same substance used in cellulose insulation. Sheep wool insulation is also created with borate. Straw insulation boards absorb sound for interior partitions.';
+  transition: 0.5s;
+ }
+
+.insulationType {
+  background-color: #ffe7b3;
+  width: 100vw;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.in_typeLeft {
+  margin: 3rem;
+  width: 50vw;
+  padding: 2rem;
+  border: solid black;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.leftList {
+  text-align: left;
+}
+
+.in_typeRight {
+  margin: 2rem;
+  width: 50vw;
+  padding: 1.5rem;
+  margin-left: 100%;
+  border: solid black;
+  border-radius: 0.5rem;
+  vertical-align: top;
+  font-size: 1.1rem;
+  text-align: center;
+  list-style-type: none;
+}
+
+.insulationTax {
+  margin-right: 3rem;
+  padding: 1.5rem;
+  width: 100vw;
+  background-color: rgb(255, 233, 204);
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.ins_taxList {
+  list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+ .additionContainer {
+  margin-left: 450%;
+  width: 60vw;
+  background: linear-gradient(60deg, rgb(52, 206, 104) 0.05%, rgb(193, 255, 193));;
+  transform: skew(-10deg);
+ }
+ 
+ .additionHeading {
+  transform: skew(10deg);
+  padding: 5.5rem;
   padding-top: 8rem;
   text-align: center;
-  font-size: 2.5rem;
   margin: 0 auto 0;
-  width: 100vw;
  }
 
- .betterAlternatives {
-  background-color: #ffc6c69f;
+ .buyEnergy {
+  width: 100vw;
+  text-align: center;
+  font-size: 1.4rem;
+ }
+
+ .buyEnergy p {
+  margin-right: 10rem;
+  margin-left: 10rem;
+ }
+ .buyOptions {
+  background-color: #b8f7c09d;
   margin:8rem;
   margin-top:0;
   text-align: center;
@@ -1154,7 +1133,28 @@
   border-radius: 3rem;
 }
 
+
+
+
+
+.lifeHeading {
+padding-top: 8rem;
+text-align: center;
+font-size: 2.5rem;
+margin: 0 auto 0;
+width: 100vw;
+}
+
+.betterAlternatives {
+background-color: #ffc6c69f;
+margin:8rem;
+margin-top:0;
+text-align: center;
+border: solid black;
+border-radius: 3rem;
+}
+
 .about_Content {
-  margin: 2rem;
-  font-size: 1.25rem;
+margin: 2rem;
+font-size: 1.25rem;
 }
